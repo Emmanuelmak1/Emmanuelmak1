@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Listening 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312aza77jilyb4rwpmsfcptqxu2i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
